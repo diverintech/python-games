@@ -19,4 +19,6 @@ This is an interactive Hangman game implemented in Python. Players can choose fr
 5. You have a limited number of lives; each incorrect guess reduces your lives.
 6. The game ends when you either guess the word or run out of lives.
 
+## Example
+
 <img src="./image_hangman.jpg" alt="Hangman" width="400">
