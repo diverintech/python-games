@@ -14,14 +14,4 @@ This is a simple implementation of the classic Rock Paper Scissors game in Pytho
    - Paper wins against Rock.
 4. The game announces the winner based on the choices.
 
-## Requirements
-
-- Python 3.x
-
-## How to Run
-
-1. Clone the repository or download the project files.
-2. Run the script using Python:
-
-   ```bash
-   python rock_paper_scissors.py
+![Rock Paper Scissors](./image_rps.jpg "Rock Paper Scissors Game")
