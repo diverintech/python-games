@@ -33,7 +33,7 @@ If you are facing issues running the project on VS Code, add the following lines
 ```json
 "python.envFile": "${workspaceFolder}/.env",
 "python.terminal.executeInFileDir": true
-
+```
 
 ## How to Play
 
