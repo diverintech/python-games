@@ -45,7 +45,7 @@ If you are facing issues running the project on VS Code, add the following lines
 ## License
 
 This project is for educational purposes and is open to modification and use as needed.
-```
+
 
 ## Example
 
