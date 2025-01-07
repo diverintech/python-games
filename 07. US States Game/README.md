@@ -46,3 +46,7 @@ If you are facing issues running the project on VS Code, add the following lines
 
 This project is for educational purposes and is open to modification and use as needed.
 ```
+
+## Example
+
+<img src="./image_usgame.jpg" alt="U.S. States" width="400">
