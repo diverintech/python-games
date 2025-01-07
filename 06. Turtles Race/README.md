@@ -27,3 +27,8 @@ This project features a simple turtle racing game implemented in Python using th
 
 ## Turtle Library Documentation
 For more information on the Turtle library, visit the official documentation [Tutle Library](https://docs.python.org/3/library/turtle.html#module-turtle).
+
+## Example
+
+<img src="./image_turtle01.jpg" alt="Turtle Race 1" width="400">
+<img src="./image_turtle02.jpg" alt="Turtle Race 2" width="400">
