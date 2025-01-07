@@ -19,15 +19,4 @@ This is an interactive Hangman game implemented in Python. Players can choose fr
 5. You have a limited number of lives; each incorrect guess reduces your lives.
 6. The game ends when you either guess the word or run out of lives.
 
-## Requirements
-
-- Python 3.x
-
-## How to Run
-
-1. Clone the repository or download the project files.
-2. Ensure you have the necessary word lists for each language (e.g., `hangman_words_pt.py`, `hangman_words_en.py`, `hangman_words_fr.py`).
-3. Run the script using Python:
-
-   ```bash
-   python hangman.py
+<img src="./image_hangman.jpg" alt="Hangman" width="400">
