@@ -20,14 +20,6 @@ This project implements a simple command-line calculator that can perform basic 
 5. View the result of the operation.
 6. Decide if you want to perform another operation using the result or exit the program.
 
-## Requirements
+## Example
 
-- Python 3.x
-
-## How to Run
-
-1. Clone the repository or download the project files.
-2. Run the script using Python:
-
-   ```bash
-   python calculator.py
+<img src="./image_calculator.jpg" alt="Calculator" width="400">

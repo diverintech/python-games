@@ -14,5 +14,7 @@ This is a simple implementation of the classic Rock Paper Scissors game in Pytho
    - Paper wins against Rock.
 4. The game announces the winner based on the choices.
 
+## Example
+
 <img src="./image_rps.jpg" alt="Rock Paper Scissors" width="400">
 

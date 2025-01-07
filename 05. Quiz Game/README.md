@@ -21,14 +21,6 @@ This project implements a command-line quiz game where users can test their know
 4. Type 'q' to quit the game at any time.
 5. At the end of the quiz, your score will be displayed.
 
-## Requirements
+## Example
 
-- Python 3.x
-
-## How to Run
-
-1. Clone the repository or download the project files.
-2. Run the script using Python:
-
-   ```bash
-   python quiz_game.py
+<img src="./image_quiz.jpg" alt="Quiz" width="400">

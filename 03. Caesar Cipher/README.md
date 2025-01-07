@@ -20,14 +20,7 @@ This project implements the Caesar Cipher, a simple encryption technique used in
 5. View the result of the encryption or decryption.
 6. Choose to play again or exit.
 
-## Requirements
+## Example
 
-- Python 3.x
+<img src="./image_caesar_chipher.jpg" alt="Caesar Cipher" width="400">
 
-## How to Run
-
-1. Clone the repository or download the project files.
-2. Run the script using Python:
-
-   ```bash
-   python caesar_cipher.py
