@@ -17,8 +17,7 @@ python3 NAME_OF_FILE.py
 
 ## Projects
 
-This repository contains a collection of mini-projects implemented in Python.
-
+This repository contains a collection of mini-projects implemented in Python. Click on the title to go directly to the game's folder and access a more detailed README.
 ### [1. Rock Paper Scissors](./01.%20Rock%20Paper%20Scissors)
 
 A classic game where players choose rock, paper, or scissors and see who wins.
