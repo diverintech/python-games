@@ -1,4 +1,4 @@
-# Python Mini-Games
+# Mini-Games
 
 ## Overview
 
